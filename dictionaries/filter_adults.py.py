@@ -10,6 +10,7 @@ users = {
 adults = {}
 
 for name, age in users.items():
+    
     if age >= 18:
         adults[name] = age
         
