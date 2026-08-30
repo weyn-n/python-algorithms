@@ -26,9 +26,8 @@ Each algorithm is stored in a folder based on the main concept used in the solut
 ```text
 python-algorithms/
 ├── dictionaries/
+├── functions/
 ├── lists/
-├── strings/
 ├── loops/
-├── searching/
-└── sorting/
+└── searching/
 ```
